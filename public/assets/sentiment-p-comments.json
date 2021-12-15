@@ -1,0 +1,14 @@
+[
+    {
+        "sentiment": 1,
+        "count": 50
+    },
+    {
+        "sentiment": 0,
+        "count": 150
+    },
+    {
+        "sentiment": -1,
+        "count": 20
+    }
+]

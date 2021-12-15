@@ -1,0 +1,37 @@
+[
+    {
+        "comment_weekday": 1,
+        "shares": 7,
+        "count": 38
+    },
+    {
+        "comment_weekday": 2,
+        "shares": 5,
+        "count": 9
+    },
+    {
+        "comment_weekday": 3,
+        "shares": 21,
+        "count": 2
+    },
+    {
+        "comment_weekday": 4,
+        "shares": 7,
+        "count": 38
+    },
+    {
+        "comment_weekday": 5,
+        "shares": 15,
+        "count": 9
+    },
+    {
+        "comment_weekday": 6,
+        "shares": 2,
+        "count": 2
+    },
+    {
+        "comment_weekday": 7,
+        "shares": 12,
+        "count": 38
+    }
+]

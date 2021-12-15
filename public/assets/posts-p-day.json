@@ -1,0 +1,44 @@
+[
+    {
+        "post_weekday": 1,
+        "shares": 3,
+        "comments": 5,
+        "count": 38
+    },
+    {
+        "post_weekday": 2,
+        "shares": 5,
+        "comments": 7,
+        "count": 9
+    },
+    {
+        "post_weekday": 3,
+        "shares": 9,
+        "comments": 1,
+        "count": 12
+    },
+    {
+        "post_weekday": 4,
+        "shares": 11,
+        "comments": 13,
+        "count": 8
+    },
+    {
+        "post_weekday": 5,
+        "shares": 23,
+        "comments": 15,
+        "count": 20
+    },
+    {
+        "post_weekday": 6,
+        "shares": 4,
+        "comments": 12,
+        "count": 50
+    },
+    {
+        "post_weekday": 7,
+        "shares": 4,
+        "comments": 23,
+        "count": 32
+    }
+]

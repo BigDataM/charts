@@ -1,0 +1,14 @@
+[
+    {
+        "type": "text",
+        "count": 6
+    },
+    {
+        "type": "image",
+        "count": 3
+    },
+    {
+        "type": "video",
+        "count": 8
+    }
+]

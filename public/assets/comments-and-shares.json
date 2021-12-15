@@ -1,0 +1,30 @@
+[
+    {
+        "post_id": "str",
+        "date": "2021-05-20T00:00:00Z",
+        "likes": 11,
+        "shares": 66,
+        "comments": 88
+    },
+    {
+        "post_id": "str",
+        "date": "2021-05-21T00:00:00Z",
+        "likes": 99,
+        "shares": 12,
+        "comments": 11
+    },
+    {
+        "post_id": "str",
+        "date": "2021-05-22T00:00:00Z",
+        "likes": 33,
+        "shares": 11,
+        "comments": 55
+    },
+    {
+        "post_id": "str",
+        "date": "2021-05-23T00:00:00Z",
+        "likes": 66,
+        "shares": 33,
+        "comments": 22
+    }
+]
